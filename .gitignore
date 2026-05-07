@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# build files
+dist/
+build/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# editor files
+.vscode/
+.idea/
+
+# cache
+.cache/
+
+# React Router / Vite
+.react-router/
+
+# uploads (if any)
+uploads/
+
+# coverage
+coverage/
